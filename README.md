@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-suryo--prakoso--putra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:suryo.prakoso.p@gmail.com">
+<a href="mailto:suryo.prakoso.career@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-suryo.prakoso.p-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
@@ -176,7 +176,7 @@ const suryo = {
   <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:suryo.prakoso.p@gmail.com">
+<a href="mailto:suryo.prakoso.career@gmail.com">
   <img src="https://img.shields.io/badge/Drop_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
