@@ -185,4 +185,5 @@ const suryo = {
 <!-- ── FOOTER WAVE ── -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:818cf8,100:38bdf8&height=120&section=footer" width="100%" />
 
+<!-- refresh -->
 </div>
