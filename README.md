@@ -1,4 +1,4 @@
-### Hi there 👋
+﻿### Hi there 👋
 
 <div align="center">
 
@@ -96,30 +96,6 @@ const suryo = {
   <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
-
-<br/>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/suryo12">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=suryo12&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=8892a4&ring_color=a78bfa" />
-</a>
-&nbsp;
-<a href="https://github.com/suryo12">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryo12&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=8892a4&langs_count=8" />
-</a>
-
-<br/><br/>
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=suryo12&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=a78bfa&fire=818cf8&currStreakLabel=38bdf8&sideLabels=8892a4&dates=8892a4&sideNums=ffffff&currStreakNum=ffffff" width="60%" />
-</a>
-
-</div>
 
 <br/>
 
